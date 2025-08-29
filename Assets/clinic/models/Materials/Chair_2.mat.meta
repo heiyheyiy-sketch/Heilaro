@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f582b21f5cdfefe4ea39e5bf9444cd08
+timeCreated: 1580990888
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 92667
+  packageName: Clinic - Operating room
+  packageVersion: 1.0
+  assetPath: Assets/clinic/models/Materials/Chair_2.mat
+  uploadId: 365077

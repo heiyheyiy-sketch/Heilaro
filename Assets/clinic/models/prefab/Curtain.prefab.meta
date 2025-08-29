@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e5218de2470d8d4098d8975a543e2f4
+timeCreated: 1580992092
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 92667
+  packageName: Clinic - Operating room
+  packageVersion: 1.0
+  assetPath: Assets/clinic/models/prefab/Curtain.prefab
+  uploadId: 365077

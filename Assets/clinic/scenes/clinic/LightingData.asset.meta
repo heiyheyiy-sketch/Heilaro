@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38ed2c3856fcaf549bc486adc4e8d219
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 92667
+  packageName: Clinic - Operating room
+  packageVersion: 1.0
+  assetPath: Assets/clinic/scenes/clinic/LightingData.asset
+  uploadId: 365077

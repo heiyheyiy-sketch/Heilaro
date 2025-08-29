@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 815d133debbb1aa4290480e4a491c136
+timeCreated: 1580993299
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 92667
+  packageName: Clinic - Operating room
+  packageVersion: 1.0
+  assetPath: Assets/clinic/models/prefab/Scissors_2.prefab
+  uploadId: 365077

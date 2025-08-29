@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: water
+  m_Shader: {fileID: 4800000, guid: 6f99dcef8f78ff24a9437a495626a098, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Fill: 0.98
+    - _FoamSmoothness: 0
+    - _FoamWidth: 0.05
+    - _LiquidBottom: -1
+    - _LiquidTop: 1
+    - _QueueControl: -1
+    - _QueueOffset: 0
+    - _RimSize: 0.48
+    - _RimSmooth: 2.19
+    - _WobbleX: -7.61367e-40
+    - _WobbleZ: 7.61367e-40
+    m_Colors:
+    - _BoundsCenter: {r: 0, g: 0, b: 0.014596058, a: 0}
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 0.42745098}
+    - _RimColor: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 1}
+    - _SideColor: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 0.07058824}
+    - _TopColor: {r: 1, g: 1, b: 1, a: 0.043137256}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &3179440671121388139
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

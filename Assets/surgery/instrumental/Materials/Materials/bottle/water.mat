@@ -35,8 +35,8 @@ Material:
     - _QueueOffset: 0
     - _RimSize: 0.48
     - _RimSmooth: 2.19
-    - _WobbleX: -1e-45
-    - _WobbleZ: 1e-45
+    - _WobbleX: -0.0010885429
+    - _WobbleZ: 0.0010885429
     m_Colors:
     - _BoundsCenter: {r: 0, g: 0, b: 0.014596058, a: 0}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0.42745098}

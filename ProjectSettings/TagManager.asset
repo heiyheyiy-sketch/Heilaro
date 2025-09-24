@@ -5,6 +5,17 @@ TagManager:
   serializedVersion: 3
   tags:
   - DragTarget
+  - QDSUIBackplateGradient
+  - QDSUIToggleSwitch
+  - QDSUITooltip
+  - QDSUISharedThemeColor
+  - QDSUIAccentColor
+  - QDSUIBorderlessButton
+  - QDSUIToggleButton
+  - QDSUISecondaryButton
+  - QDSUIToggleBorderlessButton
+  - QDSUIIcon
+  - QDSUITextSecondaryColor
   layers:
   - Default
   - TransparentFX
@@ -14,8 +25,8 @@ TagManager:
   - UI
   - Hands
   - Grabbable
-  - 
-  - 
+  - Body
+  - scalpel
   - 
   - 
   - 
